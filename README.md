@@ -6,4 +6,4 @@ Students can:
 2. Request for leave extension
 3. Confirm their arrival
 
-Only th student end of the interface and back-end work has been done. The Authority side is yet to be implemented.
+Only the student end of the interface and back-end work has been done. The Authority side is yet to be implemented.
